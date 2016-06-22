@@ -1,0 +1,547 @@
+{
+  "id": [
+    "16403237"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "16403237"
+  ],
+  "pmcid": [
+    "PMC1373625"
+  ],
+  "doi": [
+    "10.1186/1465-9921-7-5"
+  ],
+  "title": [
+    "Inhaled nitric oxide alleviates hyperoxia suppressed phosphatidylcholine synthesis in endotoxin-induced injury in mature rat lungs."
+  ],
+  "authorString": [
+    "Gong X, Guo C, Huang S, Sun B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gong X"
+          ],
+          "firstName": [
+            "Xiaohui"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Guo C"
+          ],
+          "firstName": [
+            "Chunbao"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shibing"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Sun B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1295498"
+      ],
+      "dateOfPublication": [
+        "2006 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2006"
+      ],
+      "printPublicationDate": [
+        "2006-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Respiratory research"
+          ],
+          "ISOAbbreviation": [
+            "Respir. Res."
+          ],
+          "medlineAbbreviation": [
+            "Respir Res"
+          ],
+          "NLMid": [
+            "101090633"
+          ],
+          "ISSN": [
+            "1465-9921"
+          ],
+          "ESSN": [
+            "1465-993X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "5"
+  ],
+  "abstractText": [
+    " BACKGROUND: We investigated efficacy of inhaled nitric oxide (NO) in modulation of metabolism of phosphatidylcholine (PC) of pulmonary surfactant and in anti-inflammatory mechanism of mature lungs with inflammatory injury. METHODS: Healthy adult rats were divided into a group of lung inflammation induced by i.v. lipopolysaccharides (LPS) or a normal control (C) for 24 h, and then exposed to: room air (Air), 95% oxygen (O), NO (20 parts per million, NO), both O and NO (ONO) as subgroups, whereas [3H]-choline was injected i.v. for incorporation into PC of the lungs which were processed subsequently at 10 min, 4, 8, 12 and 24 h, respectively, for measurement of PC synthesis and proinflammatory cytokine production. RESULTS: LPS-NO subgroup had the lowest level of labeled PC in total phospholipids and disaturated PC in bronchoalveolar lavage fluid and lung tissue (decreased by 46-59%), along with the lowest activity of cytidine triphosphate: phosphocholine cytidylyltransferase (-14-18%) in the lungs, compared to all other subgroups at 4 h (p < 0.01), but not at 8 and 12 h. After 24-h, all LPS-subgroups had lower labeled PC than the corresponding C-subgroups (p < 0.05). LPS-ONO had higher labeled PC in total phospholipids and disaturated PC, activity of cytidylyltransferase, and lower activity of nuclear transcription factor-kappaB and expression of proinflammatory cytokine mRNA, than that in the LPS-O subgroup (p < 0.05). CONCLUSION: In LPS-induced lung inflammation in association with hyperoxia, depressed PC synthesis and enhanced proinflammatory cytokine production may be alleviated by iNO. NO alone only transiently suppressed the PC synthesis as a result of lower activity of cytidylyltransferase."
+  ],
+  "affiliation": [
+    "Laboratory of Respiratory and Intensive Care Medicine, Children's Hospital, Fudan University, Shanghai 200032, PR China. xiaohui_gong@sina.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Sprague-Dawley"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hyperoxia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nitric Oxide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lipopolysaccharides"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphatidylcholines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytokines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Administration, Inhalation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Lipopolysaccharides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Phosphatidylcholines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nitric Oxide"
+          ],
+          "registryNumber": [
+            "10102-43-9"
+          ]
+        },
+        {
+          "name": [
+            "Cytokines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC1373625?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC1373625"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1465-9921-7-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2006-03-29"
+  ],
+  "dateOfCreation": [
+    "2006-02-28"
+  ],
+  "dateOfRevision": [
+    "2013-06-07"
+  ],
+  "electronicPublicationDate": [
+    "2006-01-11"
+  ],
+  "firstPublicationDate": [
+    "2006-01-11"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

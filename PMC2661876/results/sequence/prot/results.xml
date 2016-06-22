@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="prot">
+ <result pre="R3 gene was examined [ 25, 26]. PCR of the polymorphic area was performed using the primers: 6-FAM " exact="AGGCAACAATGGCAGTGAG" post=" fluorescently labeled, and Rev AATGTCTGGCATTGGAGTTTG. Products of 309 bp and 363 bp were distingui" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/p[2]" name="prot"/>
+ <result pre="hic area was performed using the primers: 6-FAM AGGCAACAATGGCAGTGAG fluorescently labeled, and Rev " exact="AATGTCTGGCATTGGAGTTTG" post=". Products of 309 bp and 363 bp were distinguished by gel electrophoresis, using the 6-Fam fluoresc" name="prot"/>
+</results>

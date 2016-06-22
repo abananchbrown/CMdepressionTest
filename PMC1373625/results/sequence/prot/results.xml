@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="prot">
+ <result pre="sham Pharmacia Biotech (Buckinghamshire, UK). A rabbit polyclonal antibody to a synthetic peptide (" exact="DFVAHDDIPYSSA" post=") corresponding to residues 164â€&quot;176 of rat liver CCT [ 12] was purchased from Boster Biotech (Wuh" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="prot"/>
+ <result pre="RM CT 1 5'-" exact="AGTGCAGCGCTGTGCAGTC" post="-3' and" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="prot"/>
+ <result pre="RM CT 2 5'-" exact="ACAGGTCACAGCCTTGCAC" post="-3'," xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="prot"/>
+ <result pre="RM GAPDH 1 5'-" exact="ACCACAGTCCATGCCATCAC" post="-3' and" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="prot"/>
+ <result pre="RM GAPDH 2 5'-" exact="TCCACCACCCTGTTGCTGTA" post="-3'." name="prot"/>
+</results>

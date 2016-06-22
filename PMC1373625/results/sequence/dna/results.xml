@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="dna">
+ <result pre="RM CT 1 " exact="5'-AGTGCAGCGCTGTGCAGTC-3'" post=" and" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="dna"/>
+ <result pre="RM CT 2 " exact="5'-ACAGGTCACAGCCTTGCAC-3'" post="," xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="dna"/>
+ <result pre="RM GAPDH 1 " exact="5'-ACCACAGTCCATGCCATCAC-3'" post=" and" xpath="/html[1]/body[1]/div[2]/div[2]/div[9]/p[6]" name="dna"/>
+ <result pre="RM GAPDH 2 " exact="5'-TCCACCACCCTGTTGCTGTA-3'" post="." name="dna"/>
+</results>

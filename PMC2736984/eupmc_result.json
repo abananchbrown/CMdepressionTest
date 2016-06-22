@@ -1,0 +1,363 @@
+{
+  "id": [
+    "19691856"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19691856"
+  ],
+  "pmcid": [
+    "PMC2736984"
+  ],
+  "doi": [
+    "10.1186/1755-8794-2-55"
+  ],
+  "title": [
+    "Anti-oncogenic and pro-differentiation effects of clorgyline, a monoamine oxidase A inhibitor, on high grade prostate cancer cells."
+  ],
+  "authorString": [
+    "Zhao H, Flamand V, Peehl DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao H"
+          ],
+          "firstName": [
+            "Hongjuan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Flamand V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Flamand"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Peehl DM"
+          ],
+          "firstName": [
+            "Donna M"
+          ],
+          "lastName": [
+            "Peehl"
+          ],
+          "initials": [
+            "DM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1590215"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "55"
+  ],
+  "abstractText": [
+    " BACKGROUND: Monoamine oxidase A (MAO-A), a mitochondrial enzyme that degrades monoamines including neurotransmitters, is highly expressed in basal cells of the normal human prostatic epithelium and in poorly differentiated (Gleason grades 4 and 5), aggressive prostate cancer (PCa). Clorgyline, an MAO-A inhibitor, induces secretory differentiation of normal prostate cells. We examined the effects of clorgyline on the transcriptional program of epithelial cells cultured from high grade PCa (E-CA). METHODS: We systematically assessed gene expression changes induced by clorgyline in E-CA cells using high-density oligonucleotide microarrays. Genes differentially expressed in treated and control cells were identified by Significance Analysis of Microarrays. Expression of genes of interest was validated by quantitative real-time polymerase chain reaction. RESULTS: The expression of 156 genes was significantly increased by clorgyline at all time points over the time course of 6 - 96 hr identified by Significance Analysis of Microarrays (SAM). The list is enriched with genes repressed in 7 of 12 oncogenic pathway signatures compiled from the literature. In addition, genes downregulated >or= 2-fold by clorgyline were significantly enriched with those upregulated by key oncogenes including beta-catenin and ERBB2, indicating an anti-oncogenic effect of clorgyline. Another striking effect of clorgyline was the induction of androgen receptor (AR) and classic AR target genes such as prostate-specific antigen together with other secretory epithelial cell-specific genes, suggesting that clorgyline promotes differentiation of cancer cells. Moreover, clorgyline downregulated EZH2, a critical component of the Polycomb Group (PcG) complex that represses the expression of differentiation-related genes. Indeed, many genes in the PcG repression signature that predicts PCa outcome were upregulated by clorgyline, suggesting that the differentiation-promoting effect of clorgyline may be mediated by its downregulation of EZH2. CONCLUSION: Our results suggest that inhibitors of MAO-A, already in clinical use to treat depression, may have potential application as therapeutic PCa drugs by inhibiting oncogenic pathway activity and promoting differentiation."
+  ],
+  "affiliation": [
+    "Department of Urology, Stanford University School of Medicine, Stanford, California, USA. hongjuan@stanford.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 CA123532-04"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2736984?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2736984"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1755-8794-2-55.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1755-8794/2/55"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1755-8794/2/55/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=19691856&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=19691856"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1755-8794-2-55"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "ARXPR"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2009-12-14"
+  ],
+  "dateOfCreation": [
+    "2009-09-03"
+  ],
+  "dateOfRevision": [
+    "2010-07-06"
+  ],
+  "electronicPublicationDate": [
+    "2009-08-20"
+  ],
+  "firstPublicationDate": [
+    "2009-08-20"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}

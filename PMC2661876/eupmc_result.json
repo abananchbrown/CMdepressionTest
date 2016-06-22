@@ -1,0 +1,371 @@
+{
+  "id": [
+    "19166596"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19166596"
+  ],
+  "pmcid": [
+    "PMC2661876"
+  ],
+  "doi": [
+    "10.1186/1740-3391-7-2"
+  ],
+  "title": [
+    "Circadian polymorphisms associated with affective disorders."
+  ],
+  "authorString": [
+    "Kripke DF, Nievergelt CM, Joo E, Shekhtman T, Kelsoe JR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kripke DF"
+          ],
+          "firstName": [
+            "Daniel F"
+          ],
+          "lastName": [
+            "Kripke"
+          ],
+          "initials": [
+            "DF"
+          ]
+        },
+        {
+          "fullName": [
+            "Nievergelt CM"
+          ],
+          "firstName": [
+            "Caroline M"
+          ],
+          "lastName": [
+            "Nievergelt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Joo E"
+          ],
+          "firstName": [
+            "Ej"
+          ],
+          "lastName": [
+            "Joo"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Shekhtman T"
+          ],
+          "firstName": [
+            "Tatyana"
+          ],
+          "lastName": [
+            "Shekhtman"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Kelsoe JR"
+          ],
+          "firstName": [
+            "John R"
+          ],
+          "lastName": [
+            "Kelsoe"
+          ],
+          "initials": [
+            "JR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1594233"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of circadian rhythms"
+          ],
+          "ISOAbbreviation": [
+            "J Circadian Rhythms"
+          ],
+          "medlineAbbreviation": [
+            "J Circadian Rhythms"
+          ],
+          "NLMid": [
+            "101200389"
+          ],
+          "ESSN": [
+            "1740-3391"
+          ]
+        }
+      ]
+    }
+  ],
+  "pageInfo": [
+    "2"
+  ],
+  "abstractText": [
+    " BACKGROUND: Clinical symptoms of affective disorders, their response to light treatment, and sensitivity to other circadian interventions indicate that the circadian system has a role in mood disorders. Possibly the mechanisms involve circadian seasonal and photoperiodic mechanisms. Since genetic susceptibilities contribute a strong component to affective disorders, we explored whether circadian gene polymorphisms were associated with affective disorders in four complementary studies. METHODS: Four groups of subjects were recruited from several sources: 1) bipolar proband-parent trios or sib-pair-parent nuclear families, 2) unrelated bipolar participants who had completed the BALM morningness-eveningness questionnaire, 3) sib pairs from the GenRed Project having at least one sib with early-onset recurrent unipolar depression, and 4) a sleep clinic patient group who frequently suffered from depression. Working mainly with the SNPlex assay system, from 2 to 198 polymorphisms in genes related to circadian function were genotyped in the participant groups. Associations with affective disorders were examined with TDT statistics for within-family comparisons. Quantitative trait associations were examined within the unrelated samples. RESULTS: In NR1D1, rs2314339 was associated with bipolar disorder (P = 0.0005). Among the unrelated bipolar participants, 3 SNPs in PER3 and CSNK1E were associated with the BALM score. A PPARGC1B coding SNP, rs7732671, was associated with affective disorder with nominal significance in bipolar family groups and independently in unipolar sib pairs. In TEF, rs738499 was associated with unipolar depression; in a replication study, rs738499 was also associated with the QIDS-SR depression scale in the sleep clinic patient sample. CONCLUSION: Along with anti-manic effects of lithium and the antidepressant effects of bright light, these findings suggest that perturbations of the circadian gene network at several levels may influence mood disorders, perhaps ultimately through regulation of MAOA and its modulation of dopamine transmission. Twenty-three associations of circadian polymorphisms with affective symptoms met nominal significance criteria (P < 0.05), whereas 15 would be expected by chance, indicating that many represented false discoveries (Type II errors). Some evidence of replication has been gathered, but more studies are needed to ascertain if circadian gene polymorphisms contribute to susceptibility to affective disorders."
+  ],
+  "affiliation": [
+    "Department of Psychiatry 0939, University of California, San Diego, La Jolla, CA 92093-0939, USA. DKripke@ucsd.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2661876?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2661876"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1740-3391/7/2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1740-3391/7/2/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1740-3391-7-2.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=19166596"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/picrender.fcgi?tool=EBI&pubmedid=19166596&action=stream&blobtype=pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "http://dx.doi.org/10.1186/1740-3391-7-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "64"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp; omim"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2009-03-30"
+  ],
+  "dateOfRevision": [
+    "2011-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2009-01-23"
+  ],
+  "firstPublicationDate": [
+    "2009-01-23"
+  ],
+  "luceneScore": [
+    "NaN"
+  ]
+}
