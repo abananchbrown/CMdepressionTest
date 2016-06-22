@@ -1,0 +1,86 @@
+{
+  "publisher": {
+    "value": [
+      "eLife Sciences Publications Limited"
+    ]
+  },
+  "journal": {
+    "value": [
+      "eLife"
+    ]
+  },
+  "title": {
+    "value": [
+      "Ventromedial prefrontal cortex stimulation enhances memory and hippocampal neurogenesis in the middle-aged rats"
+    ]
+  },
+  "authors": {
+    "value": [
+      "Albert Liu",
+      "Neeraj Jain",
+      "Ajai Vyas",
+      "Lee Wei Lim"
+    ]
+  },
+  "date": {
+    "value": []
+  },
+  "doi": {
+    "value": [
+      "10.7554/eLife.04803"
+    ]
+  },
+  "volume": {
+    "value": [
+      "4"
+    ]
+  },
+  "issue": {
+    "value": []
+  },
+  "firstpage": {
+    "value": [
+      "e04803"
+    ]
+  },
+  "description": {
+    "value": [
+      "Ventromedial prefrontal cortex stimulation enhances memory and hippocampal neurogenesis in the middle-aged rats | High-frequency stimulation of the ventromedial prefrontal cortex, which enhances memory and hippocampal neurogenesis, is a novel target for treatment of dementia-related diseases."
+    ]
+  },
+  "abstract": {
+    "value": []
+  },
+  "fulltext_html": {
+    "value": []
+  },
+  "fulltext_pdf": {
+    "value": [
+      "https://elifesciences.org/content/4/e04803.pdf"
+    ]
+  },
+  "fulltext_xml": {
+    "value": [
+      "https://elife-publishing-cdn.s3.amazonaws.com/04803/elife-04803-v2.xml"
+    ]
+  },
+  "supplementary_material": {
+    "value": []
+  },
+  "figure": {
+    "value": []
+  },
+  "figure_caption": {
+    "value": []
+  },
+  "license": {
+    "value": [
+      ""
+    ]
+  },
+  "copyright": {
+    "value": [
+      ""
+    ]
+  }
+}

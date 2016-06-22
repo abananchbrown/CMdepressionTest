@@ -1,0 +1,46 @@
+{
+  "title": "Ventromedial prefrontal cortex stimulation enhances memory and hippocampal neurogenesis in the middle-aged rats",
+  "link": [
+    {
+      "type": "fulltext_pdf",
+      "url": "https://elifesciences.org/content/4/e04803.pdf"
+    },
+    {
+      "type": "fulltext_xml",
+      "url": "https://elife-publishing-cdn.s3.amazonaws.com/04803/elife-04803-v2.xml"
+    }
+  ],
+  "publisher": {
+    "name": "eLife Sciences Publications Limited"
+  },
+  "journal": {
+    "volume": "4",
+    "firstpage": "e04803"
+  },
+  "sections": {
+    "description": {
+      "text": "Ventromedial prefrontal cortex stimulation enhances memory and hippocampal neurogenesis in the middle-aged rats | High-frequency stimulation of the ventromedial prefrontal cortex, which enhances memory and hippocampal neurogenesis, is a novel target for treatment of dementia-related diseases."
+    }
+  },
+  "date": {},
+  "identifier": [
+    {
+      "type": "doi",
+      "id": "10.7554/eLife.04803"
+    }
+  ],
+  "license": [
+    {
+      "raw": ""
+    }
+  ],
+  "copyright": [
+    ""
+  ],
+  "log": [
+    {
+      "date": "2016-06-20T13:41:10+01:00",
+      "event": "scraped by quickscrape v0.4.7"
+    }
+  ]
+}
