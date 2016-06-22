@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">1611</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.1611</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Pharmacology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Chronic unpredicted mild stress-induced depression alter saxagliptin pharmacokinetics and CYP450 activity in GK rats</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Xia</surname>
+            <given-names>Zhengchao</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Wei</surname>
+            <given-names>Hongyan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Duan</surname>
+            <given-names>Jingjing</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Ting</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Zhen</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Feng</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <email>andrewfxu1998@gmail.com</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Pharmacy, Fengxian Central Hospital Graduate Training Base, Liaoning Medical University</institution>, <addr-line>Shanghai</addr-line>, <country>China</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Pharmacy, Southern Medical University Affiliated Fengxian Central Hospital</institution>, <addr-line>Shanghai</addr-line>, <country>China</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Jie</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2016-01-21">
+        <day>21</day>
+        <month>1</month>
+        <year iso-8601-date="2016">2016</year>
+      </pub-date>
+      <volume>4</volume>
+      <elocation-id>e1611</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2015-11-10">
+          <day>10</day>
+          <month>11</month>
+          <year iso-8601-date="2015">2015</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2015-12-29">
+          <day>29</day>
+          <month>12</month>
+          <year iso-8601-date="2015">2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>©2016 Xia et al.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <copyright-holder>Xia et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/1611"/>
+      <abstract>
+        <p><bold>Background.</bold> This study was to explore the pharmacokinetics of saxagliptin (Sax) in Goto–Kakizaki (GK) rats complicated with depression induced by chronic unpredicted mild stress (CUMS). The comorbidity of diabetic patients with depression is becoming more and more epidemic. Whether depression mental disorder alters the pharmacokinetics of hypoglycemic drugs in diabetes patients is not clear.</p>
+        <p><bold>Methods.</bold> Five-week-old male GK rats were kept in the cage for 7 weeks in a specific pathogen free (SPF)-grade lab until the emergence of diabetes and were then divided into two groups: control group and depression model group. Rats in the CUMS-induced depression group were exposed to a series of stressors for 8 weeks. Plasma serotonin and dopamine levels and behavior of open-field test were used to confirm the establishment of the depression model. All rats were given 0.5 mg/kg Sax orally after 8 weeks and blood samples were collected at different time points. The Sax concentration was assayed by high performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). The CYP450 activity of the liver microsomes was determined by using cocktails of probe drugs in which the activities of CYP enzymes were assessed through the determination of the production of the probe drugs.</p>
+        <p><bold>Results.</bold> Statistically significant differences in Sax pharmacokinetics were observed for area under curve, clearance, peak concentration, peak time and mean residence time between the depression rats and the control rats, while no statistical differences were observed for half-time and distribution volume by HPLC-MS/MS analysis. The CYP450 activity had different changes in the depression group.</p>
+        <p><bold>Conclusions.</bold> These results indicated that CUMS-induced depression alters the drug metabolic process of Sax and CYP450 activity of the liver microsomal enzymes in GK rats.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Pharmacokinetics</kwd>
+        <kwd>Depression</kwd>
+        <kwd>Diabetes</kwd>
+        <kwd>CUMS</kwd>
+        <kwd>Saxagliptin</kwd>
+        <kwd>Rat</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Natural Science Foundation of Shanghai</funding-source>
+          <award-id>14ZR1434700</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>National Natural Science Foundation of China</funding-source>
+          <award-id>81402995</award-id>
+        </award-group>
+        <funding-statement>This study was supported by the Natural Science Foundation of Shanghai (No. 14ZR1434700) and National Natural Science Foundation of China (No. 81402995). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Depression mental disorder is increasing in patients with obesity, hypertension, myocardial infarction, and diabetes (<xref ref-type="bibr" rid="ref-1">Al-Asadi, Klein &amp; Meyer, 2015</xref>; <xref ref-type="bibr" rid="ref-21">Robbins et al., 2012</xref>; <xref ref-type="bibr" rid="ref-25">Schifano et al., 2015</xref>). Type 2 diabetes mellitus (T2DM) is a chronic metabolic disease that needs lifetime treatment, which greatly decreases the quality of life and causes terrific psychological stress (<xref ref-type="bibr" rid="ref-7">Egede &amp; Ellis, 2010</xref>). The diabetes epidemic is more and more serious. According to the International Diabetes Federation, the global number of people with diabetes has reached 370 million in 2011. According to the epidemiological survey of diabetes mellitus, the adult diabetes prevalence has reached about 9% in China. T2DM has a high risk of mortality in people with depression (<xref ref-type="bibr" rid="ref-27">Van Dooren et al., 2013</xref>).</p>
+      <p>In recent years, many researchers use chronic unpredicted mild stress (CUMS)-induced depression to simulate animal models of depression. Rats are exposed to a variety of mild stressors sequentially over a period of weeks in the CUMS model. These chronic unpredicted mild stressors are the major causes of depression (<xref ref-type="bibr" rid="ref-29">Willner, 1997</xref>).</p>
+      <p>Currently, dipeptidyl peptidase-4 (DPP-4) inhibitors are used widely as a brand new type of oral hypoglycemic drug for treating T2DM (<xref ref-type="bibr" rid="ref-4">Ceriello et al., 2014</xref>; <xref ref-type="bibr" rid="ref-19">Pugazhenthi, Qin &amp; Bouchard, 2015</xref>; <xref ref-type="bibr" rid="ref-23">Scheen, 2015</xref>), which decreases the deactivation of incretins. Incretins stimulate the insulin secretion of pancreatic <italic>β</italic>-cells and inhibit the hepatic glucagon production of <italic>α</italic>-cells (<xref ref-type="bibr" rid="ref-3">Augeri et al., 2005</xref>; <xref ref-type="bibr" rid="ref-15">Lam &amp; Saad, 2010</xref>). Saxagliptin ((S)-3-hydroxyadamantylglycine-L-<italic>cis</italic>-4,5-methanoprolinenitrile, Sax) is one of the DPP-4 inhibitors which is more safe and tolerable (<xref ref-type="bibr" rid="ref-24">Schernthaner et al., 2015</xref>). Sax exhibits good oral bioavailability and dose-dependent increases in exposure over a wide dose range in rats (<xref ref-type="bibr" rid="ref-8">Fura et al., 2009</xref>). It neither increases the risk of cardiovascular events nor decreases the renal function (<xref ref-type="bibr" rid="ref-10">Gilbert &amp; Krum, 2015</xref>; <xref ref-type="bibr" rid="ref-13">Koska et al., 2015</xref>; <xref ref-type="bibr" rid="ref-26">Udell et al., 2015</xref>).</p>
+      <p>Sax is chiefly metabolized by the hepatic microsomal enzyme CYP3A4, which is a vital part of the CYP450 family. The cytochrome P450s constitute the major drug-metabolizing enzyme system. CYP3A4, CYP2D6 and other isozymes, along with CYP2C, CYP1A2, CYP2E1, are the main human CYP isoforms catalyzing the metabolism of the vast majority of the commonly prescribed drugs. A previous work from the authors of this study found that CUMS-induced depression alters pharmacokinetics of mitiglinide in Sprague–Dawley rats (<xref ref-type="bibr" rid="ref-30">Zeng et al., 2014</xref>). This study used a spontaneous diabetes Goto–Kakizaki (GK) rat’s depression model to better simulate T2DM-depression patients and further study whether depression alters Sax pharmacokinetics.</p>
+    </sec>
+    <sec>
+      <title>Material &amp; Methods</title>
+      <sec>
+        <title>Chemicals and reagents</title>
+        <p>Sax standard sample and sitagliptin internal standard (Sit) were purchased from TRC (Toronto Research Chemicals, Canada) and TLC (TLC Pharmaceutical Standards Ltd., Canada), respectively. Phenacetin (Phe), paracetamol (Par), venlafaxine (Ven), desvenlafaxine (Dven), nifedipine (Nif), dehydronifedipine (Dnif) standard sample and loratadine internal standard (Lor) were purchased from Sigma–Aldrich (US). Sax medicine was obtained from Sino–American Shanghai Squibb Pharmaceuticals Co., Ltd. High performance liquid chromatography (HPLC)-grade methanol and ethyl acetate were purchased from Merck (US).</p>
+      </sec>
+      <sec>
+        <title>Animal</title>
+        <p>Male GK rats, 5 weeks old, purchased from Shanghai SLAC Laboratory Animal Co., Ltd., Animal Quality Certificate: 2007000562918, were kept in the Laboratory Animal Center, East China Normal University, Shanghai (Animal Experiment License: SYXK 2010-0094). Rats were kept in the cage for 7 weeks in an SPF-grade lab until the emergence of diabetes (with blood glucose level ≧ 11 mmol/L). Then the diabetic rats were randomly divided into two groups (each group comprising nine rats): control group and depression model group.</p>
+      </sec>
+      <sec>
+        <title>CUMS-induced depression model</title>
+        <p>The depression model group rat was fed alone in a cage for 8 weeks with food and water <italic>ad libitum</italic>. The stressors included restraint (activity restriction in bottle, 1 h), hot water swimming (45 °C, 5 min), cold water swimming (4 °C, 5 min), clip tail (1 cm apart from the tail, 1 min), cages tilting (45°, 24 h), horizontal shaking (10 min), damp padding (24 h), noise interference (10 min), and day/night inversion (24 h). Each stressor was used 5–6 times randomly (<xref ref-type="bibr" rid="ref-6">Duan et al., 2013</xref>; <xref ref-type="bibr" rid="ref-30">Zeng et al., 2014</xref>). During the process, the same stressor cannot be applied consecutively to avoid rat’s prediction. After the stress treatment, the rat was moved back. The control group rats were normally fed for 8 weeks with food and water <italic>ad libitum</italic> without any stressor.</p>
+      </sec>
+      <sec>
+        <title>Open-field test (<xref ref-type="bibr" rid="ref-11">Katz, Roth &amp; Carroll, 1981</xref>)</title>
+        <p>Before and after the model establishment, the open-field behavior of each rat was analyzed using a ZS-ZFT Video Analysis System (ZSDC Science and technology Co., Ltd., China). The apparatus was an opaque box (100 cm ×100 cm × 40 cm). The open-field area was divided into 33 ×33 cm<sup>2</sup> equal-size squares. Crawling square numbers and standing times were monitored as an index of locomotion activity and exploratory behavior, respectively. The test was conducted in a quiet room in the morning (8:00–12:00 a.m.) for 5 min.</p>
+      </sec>
+      <sec>
+        <title>Determination of serotonin and dopamine plasma levels (<xref ref-type="bibr" rid="ref-17">Lee et al., 2015</xref>)</title>
+        <p>Before and after the model establishment, 1.0 mL blood samples were collected from each rat by eye canthus and centrifuged to obtain 0.5 mL plasma at 3,000 × <italic>g</italic> for 5 min. The plasma serotonin (5-HT) and dopamine (DA) levels were measured with enzyme-linked immunosorbent assay (CUSABIO, US).</p>
+      </sec>
+      <sec>
+        <title>Dosage regimen and sample collection</title>
+        <p>All rats were fasted overnight but with free access to water. 0.5 mg/kg Sax (suspended in 5 g/L Carboxymethyl cellulose-Na) was given orally. Blood samples were collected by eye canthus at 0.17, 0.33, 0.5, 0.83, 1.17, 1.5, 2, 3, 5, 8 h. Then plasma samples were centrifuged to obtain plasma at 3,000 × <italic>g</italic> for 5 min. The samples were stored at −80 °C for analysis.</p>
+      </sec>
+      <sec>
+        <title>Determination of Sax concentration</title>
+        <p>The Sax concentration was assayed by the HPLC-tandem mass spectrometry (MS/MS) method (<xref ref-type="bibr" rid="ref-9">Gao et al., 2012</xref>). A total of 100 µL plasma sample and 10 µL Sit (100 ng/mL) was added with 1.2 mL ethyl acetate in a centrifuge tube, vortex-mixed for 2 min and centrifuged at 10,000 × <italic>g</italic> for 3 min. The supernatant was evaporated to dry. The residue was re-dissolved with 100 µL methanol via vortex-mixed for 1 min and centrifuged at 16,000 × <italic>g</italic> for 1 min. 2.0 µL of the supernatant was injected into the HPLC-MS/MS system for analysis.</p>
+        <p>The HPLC equipped with a reverse-phase column was connected to a triple quadrupole tandem MS with an electrospray interface. The system consists of the LC system (Agilent 1260, Agilent, US) with a G1322A degasser, a G1318B auto-modifiable pump, a G1367E auto-sampler, a G1316A adjustable column temperature box, and the Agilent 6420 MS system. Chromatographic separation was achieved using a ZORBAX EP-C<sub>18</sub> column (2.1 mm × 50 mm, 1.8 µm, Agilent). The mobile phase contained 35% methanol and 65% water (0.1% ammonium formate) with a flow rate 0.4 mL/min. The optimized conditions of MS were as follows: positive electrospray ionization (ESI<sup>+</sup>) mode, capillary at 4,000 V, ion-spray gas temperature at 350 °C, gas flow rate at 11 L/min, and nebulizer at 15 psi. The parameters of Sax and Sit were as follows: fragmentary voltage at 110 V and 130 V, collision energy at 22 units and 18 units, respectively. The multiple-reaction monitoring mode was selected for quantifying of Sax and Sit, for which the precursor-to-product ion transitions were 316.1 → 179.9 and 407.9 → 234.9, respectively. The MassHunter Workstation software (Version B.06.00, Agilent) was used to collect and process data.</p>
+      </sec>
+      <sec>
+        <title>Determination of Cytochrome P450 activity</title>
+        <p>The control and CUMS-induced rats were fasted for 12 h and killed by cervical dislocation before removal of the liver. The liver was excised, rinsed with ice-cold normal saline (0.9% NaCl, w/v), weighed for 1 g, and homogenized with 4.0 mL in a 0.05M Tris–HCl buffer (pH 7.4). The homogenate was centrifuged at 10,000 × <italic>g</italic> at 4 °C for 20 min, and the supernatant was further centrifuged at 105,000 × <italic>g</italic> at 4 °C for 60 min. The helvus sediment was reconstituted with 1.0 mL Tris–HCl buffer and stored at −80 °C for analysis.</p>
+        <p>The total protein concentrations of liver microsomal enzymes were determined by using a Bicinchoninic Acid Protein Assay Kit. The CYP450 activity of the liver microsomes was determined by using cocktails of probe drugs in which the activities of CYP enzymes were assessed through the determination of the production of the probe drugs. The Phe, Ven, Nif were metabolized to Par, Dven, Dnif by CYP1A2, CYP2D6, CYP3A4, respectively and these products were determined by HPLC-MS (<xref ref-type="bibr" rid="ref-16">Lee et al., 2014</xref>).</p>
+        <p>The incubation mixtures (final volume: 500 µL) contained 1 mg/mL microsomal protein, 0.1 M phosphate buffer (PH = 7.4), 1 mM nicotinamide adenine dinucleotide phosphate (NADPH), probe drugs (1 mg/mL Phe, Ven, Nif). A total of 100 µL microsomal protein and 100 µL probe drugs were added with 250 µL phosphate buffer in a brown centrifuge tube, vortex-mixed for 1 min, and incubated at 37 °C water. After 5 min pre-incubation, the reactions were initiated by the addition of 50 µL NADPH. The incubations were performed at 37 °C for 20 min in a water bath and terminated by adding 1.4 mL cold ethyl acetate and 20 µL Lor (5 µg/mL). The samples were vortex-mixed for 2 min and centrifuged at 3,500 × <italic>g</italic> for 10 min at 4 °C. The supernatant was extracted into a new brown centrifuge tube and evaporated to dry at 80 °C. The residue was re-dissolved with 200 µL methanol via vortex-mixed for 1 min and centrifuged at 15,000 × <italic>g</italic> for 2 min. 5.0  µL of the supernatant was injected into the LC-MS/MS system for analysis.</p>
+        <p>Chromatographic separation was achieved using a ZORBAX XDB-C<sub>18</sub> column (4.6 mm × 100 mm, 1.8 µm, Agilent). The mobile phase contained of methanol (A) and water (0.1% ammonium formate, B) with a flow rate of 0.5 mL/min. The gradient elution were 70% A (0–1 min), 80% A (1–2 min), and 90% A (2–7.5 min). The optimized conditions of MS were as follows: ESI<sup>+</sup> mode, capillary at 3,500 V, ion-spray gas temperature at 350 °C, gas flow rate at 10 L/min, and nebulizer at 15 psi. The parameters of Par, Dven, Dnif and Lor were as follows: fragmentary voltage at 150 V, 100 V, 80 V and 140 V, and collision energy at 30 units, 18 units, 14 units and 22 units, respectively. The monitoring ions were set as m/z 345.3 → 284.1 for Dnif, 264.3 → 58.2 for Dven, 152.1 → 110 for Par and 383.8 → 338.1 for Lor.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>Statistical analysis and pharmacokinetics parameter analysis were performed with SPSS 16.0 (SPSS Inc., Chicago, IL, USA) and DAS 2.1 software (Drug and Statistics, Shanghai University of Traditional Chinese Medicine, Shanghai, China). Differences between the two groups were analyzed via independent-samples <italic>t</italic> Test. Data was expressed as mean ± standard deviation (SD). <italic>p</italic> &lt; 0.05 was considered statistically significant.</p>
+      </sec>
+      <sec>
+        <title>Ethics statement</title>
+        <p>The animal experiment protocol was approved by the Bioethics Committee of East China Normal University (Animal Experiment License: SYXK 2010-0094).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Validation of depression model</title>
+        <p>The behavior scores of open-field test and 5-HT and DA plasma levels are shown in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>. The scores (<bold>a, b</bold>) and plasma levels (<bold>c, d</bold>) were same between the two groups before the depression model establishment, but significantly changed after the depression model establishment (<italic>p</italic> &lt; 0.01, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The locomotion and exploratory scores significantly decreased from 37.40 ± 9.44 to 14.10 ± 3.00 (<italic>p</italic> &lt; 0.01), and from 14.10 ± 2.38 to 7.60 ± 2.17 (<italic>p</italic> &lt; 0.01) in the depression group, respectively. However, no change occurred for these scores in the control group (<italic>p</italic> &gt; 0.05). After the model establishment, significant decreases were seen for these scores between the two groups (14.10 ± 3.00 vs. 39.80 ± 9.24, <italic>p</italic> &lt; 0.01 and 7.60 ± 2.17 vs. 14.10 ± 2.33, <italic>p</italic> &lt; 0.01, respectively).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Results of open-field test (A) locomotion score (B) exploratory score and 5-HT (C) and DA (D) plasma levels (<italic>n</italic> = 9, mean ± SD).</title>
+            <p><sup>∗</sup><italic>p</italic> &lt; 0.01: before and after score within-group comparison, NS: no significant difference.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/fig-1.png"/>
+        </fig>
+        <p>5-HT and DA plasma levels were also decreased from 62.09 ± 12.76 to 22.17 ± 4.28 (<italic>p</italic> &lt; 0.01) and from 0.55 ± 0.07 to 0.21 ± 0.05 (<italic>p</italic> &lt; 0.01) within the depression group, respectively. No significant alteration was reported within the control group (<italic>p</italic> &gt; 0.05). A notable difference was also observed between the two groups at the end of model establishment (22.17 ± 4.28 vs. 58.31 ± 10.01 ng/mL, <italic>p</italic> &lt; 0.01, and 0.21 ± 0.05 vs. 0.50 ± 0.12 ng/mL, <italic>p</italic> &lt; 0.01, respectively).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Full-scan and product ion scan mass spectrogram of saxagliptin.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/fig-2.png"/>
+        </fig>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Chromatograms of blank plasma (A), blank plasma spiked with Sax and IS (B) and plasma sample at 5 h after oral Sax (C).</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/fig-3.png"/>
+        </fig>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Evaluation on analytical methods of Sax.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/table-1.png"/>
+            <table>
+              <colgroup>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th>Theoretical concentration (ng/mL)</th>
+                  <th>Measured concentration (ng/mL)</th>
+                  <th>Accuracy (%)</th>
+                  <th>Matrix effect (%)</th>
+                  <th>Intra-day precision (RSD %)</th>
+                  <th>Inter-day precision (RSD %)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>2.5</td>
+                  <td>2.67 ± 0.09</td>
+                  <td>106.70</td>
+                  <td>96.22 ± 1.07</td>
+                  <td>3.51</td>
+                  <td>2.89</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>8.92 ± 0.09</td>
+                  <td>89.22</td>
+                  <td>95.67 ± 1.32</td>
+                  <td>1.12</td>
+                  <td>0.73</td>
+                </tr>
+                <tr>
+                  <td>50</td>
+                  <td>52.93 ± 0.73</td>
+                  <td>105.86</td>
+                  <td>96.22 ± 0.18</td>
+                  <td>1.49</td>
+                  <td>0.75</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1" fn-type="other">
+              <p>Data are based on analysis of six replicates on three separate days (mean ± SD).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Sax assay and pharmacokinetic parameters</title>
+        <p>Retention times of Sax and Sit were 0.56 and 0.95 min, respectively (<xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>). No significant interference or ion suppression peaks were observed at the retention regions of both compounds. The correlation coefficient of calibration curves showed linearity (<italic>R</italic><sup>2</sup> &gt; 0.99) by weight of 1∕<italic>x</italic><sup>2</sup> over the concentration range of 1.25–50 ng/mL. The lowest limit of quantitation (LLOQ) was 1.25 ng/mL. The matrix effects were approximately 96%. Accuracy and intra-day precision, and inter-day precisions were 89.22%–106.70%, 1.12%–3.51% and 0.73%–2.89%, respectively (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+        <p>The concentration-time parameters were calculated with noncompartmental analysis method (<xref ref-type="fig" rid="fig-4">Fig. 4</xref> and <xref ref-type="table" rid="table-2">Table 2</xref>). The area under curve (AUC<sub>0−∞</sub>), peak time (T<sub><italic>max</italic></sub>), peak concentration (C<sub>max</sub>) and mean residence time (MRT<sub>0−<italic>t</italic></sub>) in the depression group significantly decreased by 33% (from 67.06 ± 14.12 to 44.63 ± 15.49), 29% (from 1.46 ± 0.38 to 1.04 ± 0.25), 27% (from 20.48 ± 4.61 to 14.85 ± 6.03) and 24% (from 2.55 ± 0.32 to 1.95 ± 0.57), respectively (<italic>p</italic> &lt; 0.05). The distribution volume (Vz/F) and clearance (CLz/F) increased, but only CLz/F had a notable difference (<italic>p</italic> &lt; 0.05). No statistically significant difference was observed in half-time (T<sub>1∕2<italic>z</italic></sub>) between the two groups.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>The concentration-time curve of Sax in plasma after oral 0.5 mg/kg (<italic>n</italic> = 9, mean ± SD).</title>
+            <p>The area under curve in the depression group significantly decreased compared with the control group (67.06 → 44.63 ng/mL h). The first four concentrations exceeded than the control group. The depression group reached the peak time in advance (1.46 → 1.04 h), but the peak concentration lowered levels than the control group (20.48 → 14.85 ng/mL).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/fig-4.png"/>
+        </fig>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Pharmacokinetic parameters of Sax.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/table-2.png"/>
+            <table>
+              <colgroup>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th>Parameters</th>
+                  <th/>
+                  <th>Control group</th>
+                  <th>Depression group</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>T<sub>1∕2<italic>z</italic></sub></td>
+                  <td>h</td>
+                  <td>1.73 ± 0.43</td>
+                  <td>1.58 ± 0.59</td>
+                </tr>
+                <tr>
+                  <td>Vz/F</td>
+                  <td>L</td>
+                  <td>20.97 ± 8.22</td>
+                  <td>29.77 ± 14.18</td>
+                </tr>
+                <tr>
+                  <td>CLz/F</td>
+                  <td>L/h</td>
+                  <td>7.35 ± 1.34</td>
+                  <td>13.05 ± 6.30<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                </tr>
+                <tr>
+                  <td>C<sub>max</sub></td>
+                  <td>ng/mL</td>
+                  <td>20.48 ± 4.61</td>
+                  <td>14.85 ± 6.03<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                </tr>
+                <tr>
+                  <td>T<sub>max</sub></td>
+                  <td>h</td>
+                  <td>1.46 ± 0.38</td>
+                  <td>1.04 ± 0.25<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                </tr>
+                <tr>
+                  <td>AUC<sub>0−∞</sub></td>
+                  <td>ng/mL h</td>
+                  <td>67.06 ± 14.12</td>
+                  <td>44.63 ± 15.49<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                </tr>
+                <tr>
+                  <td>MRT<sub>0−<italic>t</italic></sub></td>
+                  <td>h</td>
+                  <td>2.55 ± 0.32</td>
+                  <td>1.95 ± 0.57<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-2fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-2fn1">
+              <label>*</label>
+              <p><italic>p</italic> &lt; 0.05: compared with the control group (<italic>n</italic> = 9, mean ± SD).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Determination of cytochrome P450 activity</title>
+        <p>No interference from endogenous substances was observed at the retention time of both compounds. Retention times of Par, Dven, Dnif and Lor were 2.60 min, 2.93 min, 3.34 min and 7.01 min, respectively. Calibration curves showed good linearity over the range of 31.25–2,500 ng/mL (<italic>R</italic><sup>2</sup> &gt; 0.99). The average accuracy of three QC level samples of the Par, Dven, Dnif were 106.77%, 98.87% and 103.55%, respectively. The average intra-day precision and inter-day precision of three products were 5.89%, 2.50%, 2.23% and 8.15%, 4.80%, 4.07%, respectively. The average extraction recoveries of three products and Lor were 90.32%, 89.68%, 89.88% and 90.19%, respectively. The average matrix effects and LLOQ of Par, Dven, Dnif were 91.76%, 90.97%, 88.69% and 7.0, 1.0, 10.0 ng/mL, respectively (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Validation of analytical methods of Par, Dven, Dnif.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/table-3.png"/>
+            <table>
+              <colgroup>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th>Products</th>
+                  <th>Theoretical concentration (ng/ml)</th>
+                  <th>Accuracy (%)</th>
+                  <th>Recovery (%)</th>
+                  <th>Intra-day precision (RSD %)</th>
+                  <th>Inter-day precision (RSD %)</th>
+                  <th>Matrix effect (%)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="3">Par</td>
+                  <td>62.5</td>
+                  <td>105.59</td>
+                  <td>89.49</td>
+                  <td>8.29</td>
+                  <td>7.87</td>
+                  <td>91.13 ± 0.31</td>
+                </tr>
+                <tr>
+                  <td>250</td>
+                  <td>110.03</td>
+                  <td>89.32</td>
+                  <td>5.13</td>
+                  <td>6.95</td>
+                  <td>93.27 ± 2.39</td>
+                </tr>
+                <tr>
+                  <td>1,000</td>
+                  <td>104.70</td>
+                  <td>92.14</td>
+                  <td>4.25</td>
+                  <td>9.62</td>
+                  <td>90.89 ± 2.99</td>
+                </tr>
+                <tr>
+                  <td rowspan="3">Dven</td>
+                  <td>62.5</td>
+                  <td>95.42</td>
+                  <td>89.60</td>
+                  <td>2.96</td>
+                  <td>5.23</td>
+                  <td>88.99 ± 0.32</td>
+                </tr>
+                <tr>
+                  <td>250</td>
+                  <td>100.99</td>
+                  <td>88.72</td>
+                  <td>2.93</td>
+                  <td>3.77</td>
+                  <td>90.62 ± 1.42</td>
+                </tr>
+                <tr>
+                  <td>1,000</td>
+                  <td>100.21</td>
+                  <td>90.72</td>
+                  <td>1.60</td>
+                  <td>5.41</td>
+                  <td>93.31 ± 0.20</td>
+                </tr>
+                <tr>
+                  <td rowspan="3">Dnif</td>
+                  <td>62.5</td>
+                  <td>97.53</td>
+                  <td>89.77</td>
+                  <td>2.10</td>
+                  <td>4.52</td>
+                  <td>89.40 ± 0.85</td>
+                </tr>
+                <tr>
+                  <td>250</td>
+                  <td>113.99</td>
+                  <td>87.67</td>
+                  <td>3.16</td>
+                  <td>3.81</td>
+                  <td>86.99 ± 0.56</td>
+                </tr>
+                <tr>
+                  <td>1,000</td>
+                  <td>99.13</td>
+                  <td>92.20</td>
+                  <td>1.42</td>
+                  <td>3.87</td>
+                  <td>89.67 ± 2.51</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-3fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-3fn1" fn-type="other">
+              <p>Data are based on analysis of six replicates on three separate days (mean ± SD).</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>The CYP450 activities of the liver microsomal enzymes significantly changed in the depression group compared with the control group. A notable difference was observed in the CYP3A4 activity between the two groups. The depression group increased by 50.10% from 9.78 ± 1.23 to 14.68 ± 2.47 ng/(min mg protein) (<italic>p</italic> &lt; 0.001). The CYP2D6 and CYP1A2 activity also varied statistically, but the varying degrees were not very obvious between the two groups. The CYP2D6 activity increased from 0.1713 ± 0.0122 to 0.1914 ± 0.0172 ng/(min mg protein) (<italic>p</italic> &lt; 0.05). However, the CYP1A2 activity decreased from 0.1770 ± 0.0053 to 0.1688 ± 0.0079 ng/(min mg protein) (<italic>p</italic> &lt; 0.05) (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>).</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.1611/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>CYP3A4 activity (A), CYP2D6 activity (B), CYP1A2 activity (C) of liver microsomal enzyme (<italic>n</italic> = 9, mean ± SD, <sup>∗</sup><italic>p</italic> &lt; 0.05: compared with the control group).</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/fig-5.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Chronic unpredictable mild stress (CUMS) has been widely used for many year in the research of depression (<xref ref-type="bibr" rid="ref-18">Papp, Willner &amp; Muscat, 1991</xref>; <xref ref-type="bibr" rid="ref-22">Roth &amp; Katz, 1981</xref>). The behavioral state of rats in the depression group is similar with change of psychomotor and loss of pleasure in the clinical diagnosis of depression. It is an ideal animal model for depressive diseases. The stressors were used for simulating the current social pressures with which people were facing, such as narrow dwelling areas, climate changes, traffic noise and stay up late. The plasma levels and behavior scores evaluated the stress model by the hormone levels <italic>in vivo</italic> and the outward appearance respectively. This study showed that the behavior scores of open-field test and 5-HT and DA plasma levels had verified the successful establishment of the depression model induced by CUMS. Moreover, the 5-HT plasma levels and exploratory scores had strong positive correlation in the depression group (<italic>r</italic> = 0.708). There was also a strong positive correlation between DA plasma levels and locomotion scores in the control group (<italic>r</italic> = 0.792). The results showed a significant correlation exist between the plasma levels of these two monoamines and the change of behavior in the open-field test. Thus, the GK rats of depression group could better imitate the diabetic patients complicated with depression, and the control group resembled diabetes. To keep the reproducibility and consistency in the depression model establishment, the stressor sequences in the lab were generally the same for all the experiments.</p>
+      <p>The previous work had found that CUMS-induced depression could significantly increase the activity of the hepatic drug-metabolizing enzyme CYP450 (<xref ref-type="bibr" rid="ref-5">Duan et al., 2012</xref>), and pharmacokinetics of hypoglycemic drug mitiglinide was changed in Sprague–Dawley rats (<xref ref-type="bibr" rid="ref-30">Zeng et al., 2014</xref>). In this work, spontaneous diabetes GK rats, in place of Sprague–Dawley rats, were used as model animals to better imitate the diabetes patients with depression. The Sax plasma concentration was determined by the HPLC-MS/MS. According to the parameters of analytical method in <xref ref-type="table" rid="table-1">Table 1</xref>, it showed satisfactory determination of Sax in plasma and could be used for pharmacokinetic studies. As is shown in <xref ref-type="fig" rid="fig-4">Fig. 4</xref>, the first four Sax concentrations in the depression group exceeded the control group, but the last six Sax concentrations were lower. These data showed that the normal metabolic process of Sax was disturbed in the depression rats. The significant decreasing of peak time and peak concentration levels also verified this view. Therefore, the fate of Sax significantly changed in spontaneous diabetes GK rats complicated with depression. This conclusion was similar to the previous research in Sprague–Dawley rats by the authors of this study (<xref ref-type="bibr" rid="ref-30">Zeng et al., 2014</xref>).</p>
+      <p>It is well known that Sax is mainly metabolized by cytochrome 3A enzyme in the liver. The main CYP3A isoforms, CYP3A4, CYP3A5 and CYP3A7, constitute almost 60% of total P450 content (<xref ref-type="bibr" rid="ref-12">Konstandi, 2013</xref>). The activity of CYP3A4 which was the main metabolic enzyme of Sax had significantly increased in the depression group rats, which accelerated the metabolic rate of Sax. Considering of the complicacy of metabolic system <italic>in vivo</italic>, we detected metabolism of Sax using liver microsomal enzyme <italic>in vitro</italic> with cocktails method. The results showed that, in the control group, the concentration of Sax decreased from 0.50 to 0.35 mg/mL in the control group, while in the depression group it was significantly decreased from 0.50 to 0.15 mg/mL. It indicated that CUMS-induced depression GK rats could alter the metabolic process of Sax by increasing the activity of the hepatic drug-metabolizing enzyme CYP3A4. Besides, the CUMS-induced depression GK rats changed not only CYP3A4 activity, but also CYP2D6 and CYP1A2 activity. Other researchers revealed that the genotype and phenotype of CYP450s had individual differences (<xref ref-type="bibr" rid="ref-2">Alessandrini et al., 2013</xref>; <xref ref-type="bibr" rid="ref-28">Waade et al., 2014</xref>). So the therapeutic effect of drug by CYPs enzyme metabolic would be different to some extent. CUMS-induction can up-regulate or down-regulate the CYP450 activity by changing endogenous substances or hormones levels, such as epinephrine, glucocorticoid (<xref ref-type="bibr" rid="ref-14">Kot et al., 2015</xref>). These hormones and their physiological effects are worth studying in future. The findings of this study cannot be directly extended to clinical practice, as diabetes patients are not exactly the same to spontaneous diabetes GK rats. But medication still needs a nuanced understanding of diabetes patients complicated with depression (<xref ref-type="bibr" rid="ref-20">Ratliff &amp; Mezuk, 2015</xref>).</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>These results indicated that CUMS-induced depression alters the drug metabolic process of Sax and CYP450 activity of the liver microsomal enzymes in GK rats. These data can provide some basic evidence for clinical rational use of drugs. From the results of this work in GK rats and our previous works in SD rats, we can deduce that chronic unpredicted mild stress-induced depression alter the liver metabolic enzyme activity, and then cause the changing of pharmacokinetics. This phenomenon reminds that depression patients may be also subjected to the same situation. Therefore, therapeutic regimen should be largely ameliorated in clinical practice for depression patients.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/1611/weight_of_rats.png">
+        <object-id pub-id-type="doi">10.7717/peerj.1611/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>The weight of GK rats</title>
+          <p>The weight of GK rats from 8 weeks to 22 weeks between the two groups.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/1611/raw_data.xlsx">
+        <object-id pub-id-type="doi">10.7717/peerj.1611/supp-2</object-id>
+        <label>Supplemental Information 2</label>
+        <caption>
+          <title>Open-field test scores; 5-HT/DA plasma levels and CYP450 activity</title>
+          <p>Open-field test: locomotion score and exploratory score, beofe and after model establishment. 5-HT and DA plasma levels. CYP3A4, CYP2D6 and CYP1A2 activity of liver microsomal enzymes.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="conflict">
+          <p>The authors declare there are no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Zhengchao Xia</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper, the depression model establishment.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Hongyan Wei</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper, collect plasma and liver.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Jingjing Duan</xref> and <xref ref-type="contrib" rid="author-5">Zhen Yang</xref> performed the experiments, analyzed the data, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper, perform HPLC/MS analysis.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Ting Zhou</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper, reviewed drafts of the paper, extract the liver microsomal enzymes.</p>
+        </fn>
+        <fn id="contribution-5" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-6">Feng Xu</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper, reviewed drafts of the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>The animal experiment protocol was approved by the Bioethics Committee of East China Normal University. Animal Quality Certificate: 2007000562918, were kept in the Laboratory Animal Center, East China Normal University, Shanghai (Animal Experiment License: SYXK 2010-0094).</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Data Availability</title>
+        <fn id="addinfo-2" fn-type="other">
+          <p>The following information was supplied regarding data availability:</p>
+          <p>The raw data was supplied as <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref>.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Al-Asadi, Klein &amp; Meyer (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Al-Asadi</surname><given-names>AM</given-names></name>
+                  <name><surname>Klein</surname><given-names>B</given-names></name>
+                  <name><surname>Meyer</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Multiple comorbidities of 21 psychological disorders and relationships with psychosocial variables: a study of the online assessment and diagnostic system within a web-based population</article-title>
+          <source>Journal of Medical Internet Research</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>17</volume>
+          <elocation-id>e55</elocation-id>
+          <pub-id pub-id-type="doi">10.2196/jmir.4143</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Alessandrini et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Alessandrini</surname><given-names>M</given-names></name>
+                  <name><surname>Asfaha</surname><given-names>S</given-names></name>
+                  <name><surname>Dodgen</surname><given-names>TM</given-names></name>
+                  <name><surname>Warnich</surname><given-names>L</given-names></name>
+                  <name><surname>Pepper</surname><given-names>MS</given-names></name>
+               </person-group>
+          <article-title>Cytochrome P450 pharmcaogenetics in African populations</article-title>
+          <source>Drug Metabolism Reviews</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>45</volume>
+          <fpage>253</fpage>
+          <lpage>275</lpage>
+          <pub-id pub-id-type="doi">10.3109/03602532.2013.783062</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Augeri et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Augeri</surname><given-names>DJ</given-names></name>
+                  <name><surname>Robl</surname><given-names>JA</given-names></name>
+                  <name><surname>Betebenner</surname><given-names>DA</given-names></name>
+                  <name><surname>Magnin</surname><given-names>DR</given-names></name>
+                  <name><surname>Khanna</surname><given-names>A</given-names></name>
+                  <name><surname>Robertson</surname><given-names>JG</given-names></name>
+                  <name><surname>Wang</surname><given-names>A</given-names></name>
+                  <name><surname>Simpkins</surname><given-names>LM</given-names></name>
+                  <name><surname>Taunk</surname><given-names>P</given-names></name>
+                  <name><surname>Huang</surname><given-names>Q</given-names></name>
+                  <name><surname>Han</surname><given-names>SP</given-names></name>
+                  <name><surname>Abboa-Offei</surname><given-names>B</given-names></name>
+                  <name><surname>Cap</surname><given-names>M</given-names></name>
+                  <name><surname>Xin</surname><given-names>L</given-names></name>
+                  <name><surname>Tao</surname><given-names>L</given-names></name>
+                  <name><surname>Tozzo</surname><given-names>E</given-names></name>
+                  <name><surname>Welzel</surname><given-names>GE</given-names></name>
+                  <name><surname>Egan</surname><given-names>DM</given-names></name>
+                  <name><surname>Marcinkeviciene</surname><given-names>J</given-names></name>
+                  <name><surname>Chang</surname><given-names>SY</given-names></name>
+                  <name><surname>Biller</surname><given-names>SA</given-names></name>
+                  <name><surname>Kirby</surname><given-names>MS</given-names></name>
+                  <name><surname>Parker</surname><given-names>RA</given-names></name>
+                  <name><surname>Hamann</surname><given-names>LG</given-names></name>
+               </person-group>
+          <article-title>Discovery and preclinical profile of Saxagliptin (BMS-477118): a high potent, long-acting, orallyactive dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes</article-title>
+          <source>Journal of Medicinal Chemistry</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>48</volume>
+          <fpage>5025</fpage>
+          <lpage>5037</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm050261p</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Ceriello et al. (2014)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ceriello</surname><given-names>A</given-names></name>
+                  <name><surname>Sportiello</surname><given-names>L</given-names></name>
+                  <name><surname>Rafaniello</surname><given-names>C</given-names></name>
+                  <name><surname>Rossi</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>DPP-4 inhibitors: pharmacological differences and their clinical implications</article-title>
+          <source>Expert Opinion On Drug Safety</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2014">2014</year>
+          <volume>13</volume>
+          <fpage>S57-68</fpage>
+          <lpage>S57-68</lpage>
+          <pub-id pub-id-type="doi">10.1517/14740338.2014.944862</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Duan et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Duan</surname><given-names>JJ</given-names></name>
+                  <name><surname>Zeng</surname><given-names>Y</given-names></name>
+                  <name><surname>Zhou</surname><given-names>T</given-names></name>
+                  <name><surname>Zhang</surname><given-names>Y</given-names></name>
+                  <name><surname>Xu</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Study on the pharmacokinetics of tacrolimus in depression model rats</article-title>
+          <source>International Journal of Pharmacology</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>9</volume>
+          <fpage>265</fpage>
+          <lpage>270</lpage>
+          <pub-id pub-id-type="doi">10.3923/ijp.2013.265.270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Duan et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Duan</surname><given-names>JJ</given-names></name>
+                  <name><surname>Zhou</surname><given-names>T</given-names></name>
+                  <name><surname>Chen</surname><given-names>X</given-names></name>
+                  <name><surname>Wang</surname><given-names>Y</given-names></name>
+                  <name><surname>Wen</surname><given-names>YG</given-names></name>
+                  <name><surname>Xu</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Pharmacokinetics of 5-fluorouracil and cyclophosphamide in depression rats</article-title>
+          <source>European Review for Medical Pharmacological</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>16</volume>
+          <fpage>427</fpage>
+          <lpage>436</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Egede &amp; Ellis (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Egede</surname><given-names>LE</given-names></name>
+                  <name><surname>Ellis</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Diabetes and depression: global perspectives</article-title>
+          <source>Diabetes Research And Clinical Practice</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>87</volume>
+          <fpage>302</fpage>
+          <lpage>312</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.diabres.2010.01.024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Fura et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Fura</surname><given-names>A</given-names></name>
+                  <name><surname>Khanna</surname><given-names>A</given-names></name>
+                  <name><surname>Vyas</surname><given-names>V</given-names></name>
+                  <name><surname>Koplowitz</surname><given-names>B</given-names></name>
+                  <name><surname>Chang</surname><given-names>SY</given-names></name>
+                  <name><surname>Caporuscio</surname><given-names>C</given-names></name>
+                  <name><surname>Boulton</surname><given-names>DW</given-names></name>
+                  <name><surname>Christopher</surname><given-names>LJ</given-names></name>
+                  <name><surname>Chadwick</surname><given-names>KD</given-names></name>
+                  <name><surname>Hamann</surname><given-names>LG</given-names></name>
+                  <name><surname>Humphreys</surname><given-names>WG</given-names></name>
+                  <name><surname>Kirby</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Pharmacokinetics of the dipeptidyl peptidase 4 inhibitor saxagliptin in rats, dogs, and monkeys and clinical projections</article-title>
+          <source>Drug Metabolism And Disposition</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>37</volume>
+          <fpage>1164</fpage>
+          <lpage>1171</lpage>
+          <pub-id pub-id-type="doi">10.1124/dmd.108.026088</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Gao et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gao</surname><given-names>JW</given-names></name>
+                  <name><surname>Yuan</surname><given-names>YM</given-names></name>
+                  <name><surname>Lu</surname><given-names>YS</given-names></name>
+                  <name><surname>Yao</surname><given-names>MC</given-names></name>
+               </person-group>
+          <article-title>Development of a rapid UPLC-MS/MS method for quantification of saxagliptin in rat plasma and application to pharmacokinetic study</article-title>
+          <source>Biomedical Chromatography</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>26</volume>
+          <fpage>1482</fpage>
+          <lpage>1487</lpage>
+          <pub-id pub-id-type="doi">10.1002/bmc.2720</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Gilbert &amp; Krum (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gilbert</surname><given-names>RE</given-names></name>
+                  <name><surname>Krum</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Heart failure in diabetes: effects of anti-hyperglycaemic drug therapy</article-title>
+          <source>Lancet</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>385</volume>
+          <fpage>2107</fpage>
+          <lpage>2117</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61402-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Katz, Roth &amp; Carroll (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Katz</surname><given-names>RJ</given-names></name>
+                  <name><surname>Roth</surname><given-names>KA</given-names></name>
+                  <name><surname>Carroll</surname><given-names>BJ</given-names></name>
+               </person-group>
+          <article-title>Acute and chronic stress effects on open field activity in the rat: implications for a model of depression</article-title>
+          <source>Neuroscience And Biobehavioral Reviews</source>
+          <year iso-8601-date="1981">1981</year>
+          <volume>5</volume>
+          <fpage>247</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1016/0149-7634(81)90005-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Konstandi (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Konstandi</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Psychophysiological stress: a significant parameter in drug pharmacokinetics</article-title>
+          <source>Expert Opinion on Drug Metabolism &amp; Toxicology</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>9</volume>
+          <fpage>1317</fpage>
+          <lpage>1334</lpage>
+          <pub-id pub-id-type="doi">10.1517/17425255.2013.816283</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Koska et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Koska</surname><given-names>J</given-names></name>
+                  <name><surname>Sands</surname><given-names>M</given-names></name>
+                  <name><surname>Burciu</surname><given-names>C</given-names></name>
+                  <name><surname>Reaven</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Cardiovascular effects of dipeptidyl peptidase-4 inhibitors in patients with type 2 diabetes</article-title>
+          <source>Diabetes &amp; Vascular Disease Research</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>12</volume>
+          <fpage>154</fpage>
+          <lpage>163</lpage>
+          <pub-id pub-id-type="doi">10.1177/1479164114562411</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Kot et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kot</surname><given-names>M</given-names></name>
+                  <name><surname>Sadakierska-Chudy</surname><given-names>A</given-names></name>
+                  <name><surname>Haduch</surname><given-names>A</given-names></name>
+                  <name><surname>Rysz</surname><given-names>M</given-names></name>
+                  <name><surname>Bromek</surname><given-names>E</given-names></name>
+                  <name><surname>Golembiowska</surname><given-names>K</given-names></name>
+                  <name><surname>Daniel</surname><given-names>WA</given-names></name>
+               </person-group>
+          <article-title>The role of the dorsal noradrenergic pathway of the brain (locus coeruleus) in the regulation of liver cytochrome P450 activity</article-title>
+          <source>European Journal of Pharmacology</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>751</volume>
+          <fpage>34</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejphar.2015.01.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Lam &amp; Saad (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lam</surname><given-names>S</given-names></name>
+                  <name><surname>Saad</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Saxagliptin: a new dipeptidyl peptidase-4 inhibitor for type 2 diabetes</article-title>
+          <source>Cardiology in Review</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>18</volume>
+          <fpage>213</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="doi">10.1097/CRD.0b013e3181daad5f</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Lee et al. (2014)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lee</surname><given-names>SY</given-names></name>
+                  <name><surname>Jang</surname><given-names>H</given-names></name>
+                  <name><surname>Lee</surname><given-names>JY</given-names></name>
+                  <name><surname>Kwon</surname><given-names>KI</given-names></name>
+                  <name><surname>Oh</surname><given-names>SJ</given-names></name>
+                  <name><surname>Kim</surname><given-names>SK</given-names></name>
+               </person-group>
+          <article-title>Inhibition of cytochrome P450 by ethambutol in human liver microsomes</article-title>
+          <source>Toxicology Letters</source>
+          <year iso-8601-date="2014">2014</year>
+          <volume>229</volume>
+          <fpage>33</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.toxlet.2014.06.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Lee et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lee</surname><given-names>M</given-names></name>
+                  <name><surname>Ryu</surname><given-names>YH</given-names></name>
+                  <name><surname>Cho</surname><given-names>WG</given-names></name>
+                  <name><surname>Kang</surname><given-names>YW</given-names></name>
+                  <name><surname>Lee</surname><given-names>SJ</given-names></name>
+                  <name><surname>Jeon</surname><given-names>TJ</given-names></name>
+                  <name><surname>Lyoo</surname><given-names>CH</given-names></name>
+                  <name><surname>Kim</surname><given-names>CH</given-names></name>
+                  <name><surname>Kim</surname><given-names>DG</given-names></name>
+                  <name><surname>Lee</surname><given-names>K</given-names></name>
+                  <name><surname>Choi</surname><given-names>TH</given-names></name>
+                  <name><surname>Choi</surname><given-names>JY</given-names></name>
+               </person-group>
+          <article-title>Relationship between dopamine deficit and the expression of depressive behavior resulted from alteration of serotonin system</article-title>
+          <source>Synapse</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>69</volume>
+          <fpage>453</fpage>
+          <lpage>460</lpage>
+          <pub-id pub-id-type="doi">10.1002/syn.21834</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Papp, Willner &amp; Muscat (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Papp</surname><given-names>M</given-names></name>
+                  <name><surname>Willner</surname><given-names>P</given-names></name>
+                  <name><surname>Muscat</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>An animal model of anhedonia: attenuation of sucrose consumption and place preference conditioning by chronic unpredictable mild stress</article-title>
+          <source>Psychopharmacology</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>104</volume>
+          <fpage>255</fpage>
+          <lpage>259</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02244188</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Pugazhenthi, Qin &amp; Bouchard (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pugazhenthi</surname><given-names>S</given-names></name>
+                  <name><surname>Qin</surname><given-names>L</given-names></name>
+                  <name><surname>Bouchard</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>Dipeptidyl peptidase-4 inhibition in diabetic rats leads to activation of the transcription factor CREB in <italic>β</italic>-cells</article-title>
+          <source>European Journal of Pharmacology</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>755</volume>
+          <fpage>42</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejphar.2015.02.024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Ratliff &amp; Mezuk (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ratliff</surname><given-names>S</given-names></name>
+                  <name><surname>Mezuk</surname><given-names>B</given-names></name>
+               </person-group>
+          <article-title>Depressive symptoms, psychiatric medication use, and risk of type 2 diabetes: results from the health and retirement study</article-title>
+          <source>General Hospital Psychiatry</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>37</volume>
+          <fpage>420</fpage>
+          <lpage>426</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.genhosppsych.2015.05.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Robbins et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robbins</surname><given-names>MS</given-names></name>
+                  <name><surname>Bronheim</surname><given-names>R</given-names></name>
+                  <name><surname>Lipton</surname><given-names>RB</given-names></name>
+                  <name><surname>Grosberg</surname><given-names>BM</given-names></name>
+                  <name><surname>Vollbracht</surname><given-names>S</given-names></name>
+                  <name><surname>Sheftell</surname><given-names>FD</given-names></name>
+                  <name><surname>Buse</surname><given-names>DC</given-names></name>
+               </person-group>
+          <article-title>Depression and anxiety in episodic and chronic cluster headache: a pilot study</article-title>
+          <source>Headache</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>52</volume>
+          <fpage>600</fpage>
+          <lpage>611</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1526-4610.2011.02024.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Roth &amp; Katz (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Roth</surname><given-names>KA</given-names></name>
+                  <name><surname>Katz</surname><given-names>RJ</given-names></name>
+               </person-group>
+          <article-title>Further studies on a novel animal model of depression: therapeutic effects of a tricyclic antidepressant</article-title>
+          <source>Neuroscience And Biobehavioral Reviews</source>
+          <year iso-8601-date="1981">1981</year>
+          <volume>5</volume>
+          <fpage>253</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1016/0149-7634(81)90006-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Scheen (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Scheen</surname><given-names>AJ</given-names></name>
+               </person-group>
+          <article-title>Safety of dipeptidyl peptidase-4 inhibitors for treating type 2 diabetes</article-title>
+          <source>Expert Opinion On Drug Safety</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>14</volume>
+          <fpage>505</fpage>
+          <lpage>524</lpage>
+          <pub-id pub-id-type="doi">10.1517/14740338.2015.1006625</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Schernthaner et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Schernthaner</surname><given-names>G</given-names></name>
+                  <name><surname>Duran-Garcia</surname><given-names>S</given-names></name>
+                  <name><surname>Hanefeld</surname><given-names>M</given-names></name>
+                  <name><surname>Langslet</surname><given-names>G</given-names></name>
+                  <name><surname>Niskanen</surname><given-names>L</given-names></name>
+                  <name><surname>Ostgren</surname><given-names>CJ</given-names></name>
+                  <name><surname>Malvolti</surname><given-names>E</given-names></name>
+                  <name><surname>Hardy</surname><given-names>E</given-names></name>
+               </person-group>
+          <article-title>Efficacy and tolerability of saxagliptin compared with glimepiride in elderly patients with type 2 diabetes: a randomized, controlled study (GENERATION)</article-title>
+          <source>Diabetes Obesity &amp; Metabolism</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>17</volume>
+          <fpage>630</fpage>
+          <lpage>638</lpage>
+          <pub-id pub-id-type="doi">10.1111/dom.12461</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Schifano et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Schifano</surname><given-names>F</given-names></name>
+                  <name><surname>Orsolini</surname><given-names>L</given-names></name>
+                  <name><surname>Duccio Papanti</surname><given-names>G</given-names></name>
+                  <name><surname>Corkery</surname><given-names>JM</given-names></name>
+               </person-group>
+          <article-title>Novel psychoactive substances of interest for psychiatry</article-title>
+          <source>World Psychiatry</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>14</volume>
+          <fpage>15</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.1002/wps.20174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Udell et al. (2015)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Udell</surname><given-names>JA</given-names></name>
+                  <name><surname>Bhatt</surname><given-names>DL</given-names></name>
+                  <name><surname>Braunwald</surname><given-names>E</given-names></name>
+                  <name><surname>Cavender</surname><given-names>MA</given-names></name>
+                  <name><surname>Mosenzon</surname><given-names>O</given-names></name>
+                  <name><surname>Steg</surname><given-names>PG</given-names></name>
+                  <name><surname>Davidson</surname><given-names>JA</given-names></name>
+                  <name><surname>Nicolau</surname><given-names>JC</given-names></name>
+                  <name><surname>Corbalan</surname><given-names>R</given-names></name>
+                  <name><surname>Hirshberg</surname><given-names>B</given-names></name>
+                  <name><surname>Frederich</surname><given-names>R</given-names></name>
+                  <name><surname>Im</surname><given-names>K</given-names></name>
+                  <name><surname>Umez-Eronini</surname><given-names>AA</given-names></name>
+                  <name><surname>He</surname><given-names>P</given-names></name>
+                  <name><surname>McGuire</surname><given-names>DK</given-names></name>
+                  <name><surname>Leiter</surname><given-names>LA</given-names></name>
+                  <name><surname>Raz</surname><given-names>I</given-names></name>
+                  <name><surname>Scirica</surname><given-names>BM</given-names></name>
+                  <collab>
+                     <institution>, Savor-Timi Steering Committee Investigators</institution>
+                  </collab>
+               </person-group>
+          <article-title>Saxagliptin and cardiovascular outcomes in patients with type 2 diabetes and moderate or severse renal impairment: observatons from the SAVOR-TIMI 53 Trial</article-title>
+          <source>Diabetes Care</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>38</volume>
+          <fpage>696</fpage>
+          <lpage>705</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Van Dooren et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Van Dooren</surname><given-names>FE</given-names></name>
+                  <name><surname>Nefs</surname><given-names>G</given-names></name>
+                  <name><surname>Schram</surname><given-names>MT</given-names></name>
+                  <name><surname>Verhey</surname><given-names>FR</given-names></name>
+                  <name><surname>Denollet</surname><given-names>J</given-names></name>
+                  <name><surname>Pouwer</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Depression and risk of mortality in people with diabetes mellitus: a systematic review and meta-analysis</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>8</volume>
+          <elocation-id>e57058</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0057058</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Waade et al. (2014)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Waade</surname><given-names>RB</given-names></name>
+                  <name><surname>Hermann</surname><given-names>M</given-names></name>
+                  <name><surname>Moe</surname><given-names>HL</given-names></name>
+                  <name><surname>Molden</surname><given-names>E</given-names></name>
+               </person-group>
+          <article-title>Impact of age on serum concentrations of venlafaxine and escitalopram in different CYP2D6 and CYP2C19 genotype subgroups</article-title>
+          <source>European Journal of Clinical Pharmacology</source>
+          <year iso-8601-date="2014">2014</year>
+          <volume>70</volume>
+          <fpage>933</fpage>
+          <lpage>940</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00228-014-1696-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Willner (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Willner</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Validity, reliability and utility of the chronic mild stress model of depression: a 10-year review and evaluation</article-title>
+          <source>Psychopharmacology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>134</volume>
+          <fpage>319</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="doi">10.1007/s002130050456</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Zeng et al. (2014)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Zeng</surname><given-names>Y</given-names></name>
+                  <name><surname>Xie</surname><given-names>X</given-names></name>
+                  <name><surname>Duan</surname><given-names>J</given-names></name>
+                  <name><surname>Zhou</surname><given-names>T</given-names></name>
+                  <name><surname>Zhang</surname><given-names>Y</given-names></name>
+                  <name><surname>Yang</surname><given-names>M</given-names></name>
+                  <name><surname>Xu</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Perturbtion of mitiglinide metabolism by chronic unpredicted mild stress in rats</article-title>
+          <source>Scientific Reports</source>
+          <year iso-8601-date="2014">2014</year>
+          <volume>4</volume>
+          <fpage>3794</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep03794</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
